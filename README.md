@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Mayukh 👋
 
-<!--
-**Adzz09/Adzz09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Class 12 student aspiring to pursue a BCA degree
+📱 Flutter developer building mobile applications
+🚀 Currently exploring backend development and APIs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I enjoy building apps and experimenting with new ideas.
+Right now, I’m focused on improving my development skills by creating real-world projects and learning how backend systems work.
+
+---
+
+## 🛠️ Tech Stack
+
+* Flutter (Dart)
+* Supabase (learning)
+* Git & GitHub
+
+---
+
+## 📌 Current Focus
+
+* Learning backend development (APIs, databases)
+* Building projects that solve real problems
+* Improving code quality and project structure
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Adzz09
+
+---
+
+⭐ *Working towards becoming a backend-focused developer through consistent building and learning.*
