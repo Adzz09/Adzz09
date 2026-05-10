@@ -2,7 +2,7 @@
 
 🎓 Class 12 student aspiring to pursue a BCA degree
 📱 Flutter developer building mobile applications
-🚀 Currently exploring backend development and APIs
+🚀 Currently exploring software development
 
 ---
 
